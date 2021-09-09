@@ -1,0 +1,35 @@
+.n1 {
+  background-color: #4fe887;
+  height: 50%;
+  width: 50%;
+  float: left;
+}
+
+.n2 {
+  background-color: #4fe887;
+  height: 50%;
+  width: 50%;
+  float: right;
+}
+
+.n3 {
+  background-color: #4fe887;
+  height: 50%;
+  width: 50%;
+  float: left;
+}
+
+.n4 {
+  background-image: url("IMG_2696.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 50%;
+  width: 50%;
+  float: right;
+}
+
+.holder{
+  height: 600px;
+  width: inherit;
+}
